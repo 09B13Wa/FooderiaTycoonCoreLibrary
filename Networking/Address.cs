@@ -8,6 +8,7 @@ using static Networking.Config;
 
 namespace Networking
 {
+    
     using NetworkAddressList = Vector<NetworkAddress>;
     using SocketList = Dictionary<NetworkAddress,>; 
     public class NetworkAddress

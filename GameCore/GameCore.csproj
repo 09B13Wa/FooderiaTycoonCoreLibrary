@@ -5,7 +5,6 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <Folder Include="Customer" />
       <Folder Include="EventSystem" />
       <Folder Include="Map" />
     </ItemGroup>
