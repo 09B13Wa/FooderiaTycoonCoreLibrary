@@ -1,0 +1,14 @@
+C:\Users\jasch\RiderProjects\fooderia_tycoon_core_library\FooderiaTycoonCoreLibrary\Install\obj\Debug\netcoreapp3.1\Install.csprojAssemblyReference.cache
+C:\Users\jasch\RiderProjects\fooderia_tycoon_core_library\FooderiaTycoonCoreLibrary\Install\obj\Debug\netcoreapp3.1\Install.AssemblyInfoInputs.cache
+C:\Users\jasch\RiderProjects\fooderia_tycoon_core_library\FooderiaTycoonCoreLibrary\Install\obj\Debug\netcoreapp3.1\Install.AssemblyInfo.cs
+C:\Users\jasch\RiderProjects\fooderia_tycoon_core_library\FooderiaTycoonCoreLibrary\Install\obj\Debug\netcoreapp3.1\Install.csproj.CoreCompileInputs.cache
+C:\Users\jasch\RiderProjects\fooderia_tycoon_core_library\FooderiaTycoonCoreLibrary\Install\bin\Debug\netcoreapp3.1\Install.deps.json
+C:\Users\jasch\RiderProjects\fooderia_tycoon_core_library\FooderiaTycoonCoreLibrary\Install\bin\Debug\netcoreapp3.1\Install.dll
+C:\Users\jasch\RiderProjects\fooderia_tycoon_core_library\FooderiaTycoonCoreLibrary\Install\bin\Debug\netcoreapp3.1\Install.pdb
+C:\Users\jasch\RiderProjects\fooderia_tycoon_core_library\FooderiaTycoonCoreLibrary\Install\obj\Debug\netcoreapp3.1\Install.dll
+C:\Users\jasch\RiderProjects\fooderia_tycoon_core_library\FooderiaTycoonCoreLibrary\Install\obj\Debug\netcoreapp3.1\Install.pdb
+C:\Users\jasch\RiderProjects\fooderia_tycoon_core_library\FooderiaTycoonCoreLibrary\Install\bin\Debug\netcoreapp3.1\System.Windows.Forms.dll
+C:\Users\jasch\RiderProjects\fooderia_tycoon_core_library\FooderiaTycoonCoreLibrary\Install\bin\Debug\netcoreapp3.1\Accessibility.dll
+C:\Users\jasch\RiderProjects\fooderia_tycoon_core_library\FooderiaTycoonCoreLibrary\Install\bin\Debug\netcoreapp3.1\System.Deployment.dll
+C:\Users\jasch\RiderProjects\fooderia_tycoon_core_library\FooderiaTycoonCoreLibrary\Install\bin\Debug\netcoreapp3.1\System.Runtime.Serialization.Formatters.Soap.dll
+C:\Users\jasch\RiderProjects\fooderia_tycoon_core_library\FooderiaTycoonCoreLibrary\Install\obj\Debug\netcoreapp3.1\Install.csproj.CopyComplete

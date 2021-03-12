@@ -1,0 +1,17 @@
+C:\Users\jasch\RiderProjects\fooderia_tycoon_core_library\FooderiaTycoonCoreLibrary\Install\bin\Debug\netcoreapp5.0\Install.deps.json
+C:\Users\jasch\RiderProjects\fooderia_tycoon_core_library\FooderiaTycoonCoreLibrary\Install\bin\Debug\netcoreapp5.0\Install.dll
+C:\Users\jasch\RiderProjects\fooderia_tycoon_core_library\FooderiaTycoonCoreLibrary\Install\bin\Debug\netcoreapp5.0\ref\Install.dll
+C:\Users\jasch\RiderProjects\fooderia_tycoon_core_library\FooderiaTycoonCoreLibrary\Install\bin\Debug\netcoreapp5.0\Install.pdb
+C:\Users\jasch\RiderProjects\fooderia_tycoon_core_library\FooderiaTycoonCoreLibrary\Install\bin\Debug\netcoreapp5.0\System.Windows.Forms.dll
+C:\Users\jasch\RiderProjects\fooderia_tycoon_core_library\FooderiaTycoonCoreLibrary\Install\bin\Debug\netcoreapp5.0\Accessibility.dll
+C:\Users\jasch\RiderProjects\fooderia_tycoon_core_library\FooderiaTycoonCoreLibrary\Install\bin\Debug\netcoreapp5.0\System.Deployment.dll
+C:\Users\jasch\RiderProjects\fooderia_tycoon_core_library\FooderiaTycoonCoreLibrary\Install\bin\Debug\netcoreapp5.0\System.Runtime.Serialization.Formatters.Soap.dll
+C:\Users\jasch\RiderProjects\fooderia_tycoon_core_library\FooderiaTycoonCoreLibrary\Install\obj\Debug\netcoreapp5.0\Install.csprojAssemblyReference.cache
+C:\Users\jasch\RiderProjects\fooderia_tycoon_core_library\FooderiaTycoonCoreLibrary\Install\obj\Debug\netcoreapp5.0\Install.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jasch\RiderProjects\fooderia_tycoon_core_library\FooderiaTycoonCoreLibrary\Install\obj\Debug\netcoreapp5.0\Install.AssemblyInfoInputs.cache
+C:\Users\jasch\RiderProjects\fooderia_tycoon_core_library\FooderiaTycoonCoreLibrary\Install\obj\Debug\netcoreapp5.0\Install.AssemblyInfo.cs
+C:\Users\jasch\RiderProjects\fooderia_tycoon_core_library\FooderiaTycoonCoreLibrary\Install\obj\Debug\netcoreapp5.0\Install.csproj.CoreCompileInputs.cache
+C:\Users\jasch\RiderProjects\fooderia_tycoon_core_library\FooderiaTycoonCoreLibrary\Install\obj\Debug\netcoreapp5.0\Install.csproj.CopyComplete
+C:\Users\jasch\RiderProjects\fooderia_tycoon_core_library\FooderiaTycoonCoreLibrary\Install\obj\Debug\netcoreapp5.0\Install.dll
+C:\Users\jasch\RiderProjects\fooderia_tycoon_core_library\FooderiaTycoonCoreLibrary\Install\obj\Debug\netcoreapp5.0\ref\Install.dll
+C:\Users\jasch\RiderProjects\fooderia_tycoon_core_library\FooderiaTycoonCoreLibrary\Install\obj\Debug\netcoreapp5.0\Install.pdb

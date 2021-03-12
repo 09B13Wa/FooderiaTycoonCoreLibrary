@@ -1,0 +1,114 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "GameCore/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/GameCore.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GameCore.dll": {}
+        }
+      },
+      "Install/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Install.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Install.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GameCore/1.0.0": {
+      "type": "project",
+      "path": "../GameCore/GameCore.csproj",
+      "msbuildProject": "../GameCore/GameCore.csproj"
+    },
+    "Install/1.0.0": {
+      "type": "project",
+      "path": "../Install/Install.csproj",
+      "msbuildProject": "../Install/Install.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "GameCore >= 1.0.0",
+      "Install >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\jasch\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\jasch\\RiderProjects\\fooderia_tycoon_core_library\\FooderiaTycoonCoreLibrary\\Testing\\Testing.csproj",
+      "projectName": "Testing",
+      "projectPath": "C:\\Users\\jasch\\RiderProjects\\fooderia_tycoon_core_library\\FooderiaTycoonCoreLibrary\\Testing\\Testing.csproj",
+      "packagesPath": "C:\\Users\\jasch\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jasch\\RiderProjects\\fooderia_tycoon_core_library\\FooderiaTycoonCoreLibrary\\Testing\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\jasch\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "netcoreapp5.0",
+          "projectReferences": {
+            "C:\\Users\\jasch\\RiderProjects\\fooderia_tycoon_core_library\\FooderiaTycoonCoreLibrary\\GameCore\\GameCore.csproj": {
+              "projectPath": "C:\\Users\\jasch\\RiderProjects\\fooderia_tycoon_core_library\\FooderiaTycoonCoreLibrary\\GameCore\\GameCore.csproj"
+            },
+            "C:\\Users\\jasch\\RiderProjects\\fooderia_tycoon_core_library\\FooderiaTycoonCoreLibrary\\Install\\Install.csproj": {
+              "projectPath": "C:\\Users\\jasch\\RiderProjects\\fooderia_tycoon_core_library\\FooderiaTycoonCoreLibrary\\Install\\Install.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "netcoreapp5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

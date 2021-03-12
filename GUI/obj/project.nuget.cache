@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rlVhzPQm9gX56QTlNKdMxdXi+UGHgRX6jdyLcMhuUdoQtE/XyzS8sfyquDOSNwsh9wMsRMEkGX/19uM/Fu+pVQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jasch\\RiderProjects\\fooderia_tycoon_core_library\\FooderiaTycoonCoreLibrary\\GUI\\GUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jasch\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
