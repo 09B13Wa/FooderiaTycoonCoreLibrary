@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Net.NetworkInformation;
 
 namespace GameCore
 {
@@ -10,8 +9,9 @@ namespace GameCore
         public int maxY;
         public int maxZ;
         public List<Restaurant> Restaurants;
-        public Dictionary<int, Customer> Customers;
-        private List<Node> Nodes;
+        public Dictionary<int, Customer.Customer> Customers;
+        private Tile[,] Tiles;
+        private List<Plot> Plots;
 
         public Map(int height, int width, string mapData)
         {

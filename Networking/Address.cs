@@ -9,14 +9,13 @@ using static Networking.Config;
 namespace Networking
 {
     
-    using NetworkAddressList = Vector<NetworkAddress>;
-    using SocketList = Dictionary<NetworkAddress,>; 
     public class NetworkAddress
     {
         private string Hostname;
         private int AddressLength;
         private bool Resolved;
         private SocketAddress Address;
+        /*
         public struct NetworkAddressStorage(SocketAddress address, int addressLength)
         {
             AddressLength = addressLength;
@@ -24,7 +23,7 @@ namespace Networking
             Resolved = addressLength != 0;
             Hostname = "\0";
         }
-        
+        */
         
     }
 }
